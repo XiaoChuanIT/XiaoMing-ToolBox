@@ -1,5 +1,6 @@
 # XiaoMing-ToolBox
-一款基于XiaoMingBot的插件           
+一款基于XiaoMingBot的插件        
+开发者：XIAO_CHUAN            
 ---------------------------------------------------------         
 作者:XIAOCHUANIT              
 希望大家能支持我的插件            
